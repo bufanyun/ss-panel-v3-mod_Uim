@@ -12,6 +12,7 @@
 
 本主题包含了SSPANEL的完整代码，需要删除原来的面板，然后全新安装（数据库通用），操作前请备份面板
 
-本源码未完全免费开放，仅公开构架思路仅供学习，如需购买完整版商业化使用请联系作者[bufanyun]： https://github.com/bufanyun
+本源码未完全免费开放，仅公开构架思路仅供学习
+如需购买完整版商业化使用请联系作者[bufanyun]： https://github.com/bufanyun
 
 演示站：http://malio.ms521.cn （后台账号密码请联系作者获取）
